@@ -1,0 +1,7 @@
+This is the file that should be ignored. "Why did you bother to making this?" you asked, right?
+
+Well, obviously, because this isn't important, so it needs to be ignored by .gitignored.
+
+If you still seeing this, then you've been distracted. LOL.
+
+-- >:-)
